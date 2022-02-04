@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 24%;
+    padding: 5px;
+    height: 300px;
+    margin: 5px;
+}
+
+
+/* .row:after {
+    content: "";
+    display: table;
+    clear: both;
+} */
+
+.col1 {
+    background-color: #b649f1;
+}
+
+.col2 {
+    background-color: #ba5ced;
+}
+
+.col3 {
+    background-color: #c67fec;
+}
+
+.col4 {
+    background-color: #daaff1;
+}
